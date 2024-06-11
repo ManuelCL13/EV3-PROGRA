@@ -1,0 +1,100 @@
+/* estilo de fondo con una imagen seleccionada que se quede estatica y media difuminada en los bordes */
+.fondo{
+    background-image: url('img/background.png');
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+.fondo2{
+    background-color: rgba(68, 177, 199, 0.712);
+}
+
+.botonGuardar{
+    background-color: #b82323;
+    color: white;
+}
+
+.botonGuardar:hover{
+    background-color: #ff0000;
+}
+
+.botonLimpiar{
+    background-color: #1e63c4;
+    color: white;
+}
+
+.botonLimpiar:hover{
+    background-color: #0000ff;
+}
+
+@font-face {
+    font-family: 'one piece font';
+    src: url(/font/one\ piece\ font.ttf);
+    font-style: bold;
+}
+
+h1{
+    font-family: 'one piece font';
+    font-size: 75px;
+}
+
+.texto2{
+    font-family: 'one piece font';
+    font-size: 30px;
+}
+
+.texto3{
+    font-family: 'one piece font';
+    font-size: 20px;
+}
+
+.iconoBerries{
+    width: 20px;
+    height: auto;
+}
+
+.botonOP{
+    background-color: #14c156;
+    color: white;
+}
+
+.botonOP:hover{
+    background-color: #00ff009d;
+}
+
+.botonOP2{
+    background-color: #e30c0c;
+    color: white;
+}
+
+.botonOP2:hover{
+    background-color: #ff000097;
+}
+
+.iconoPagina{
+    width: 20px;
+    height: auto;
+}
+
+.iconoTabla{
+    width: 22px;
+    height: auto;
+}
+
+.fondoFooter{
+    background-color: #1f0c6c;
+    color: white;
+}
+
+.imagenFooter{
+    width: 800px;
+    height: auto;
+}
+
+.imagenFooter2{
+    width: 260px;
+    height: auto;
+}
