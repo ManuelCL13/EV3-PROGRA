@@ -30,7 +30,7 @@
     background-color: #0000ff;
 }
 
-@font-face {
+/*@font-face {
     font-family: 'one piece font';
     src: url(/font/onepiecefontwoff.woff);
     font-style: bold;
@@ -50,7 +50,7 @@ h1{
     font-family: 'one piece font';
     font-size: 20px;
 }
-
+*/
 .iconoBerries{
     width: 20px;
     height: auto;
